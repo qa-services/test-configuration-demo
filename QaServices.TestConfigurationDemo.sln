@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QaServices.TestConfigurationDemoPart1", "QaServices.TestConfigurationDemoPart1\QaServices.TestConfigurationDemoPart1.csproj", "{640EB562-ECCB-44F8-AEF8-E33E1606CA9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640EB562-ECCB-44F8-AEF8-E33E1606CA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640EB562-ECCB-44F8-AEF8-E33E1606CA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640EB562-ECCB-44F8-AEF8-E33E1606CA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640EB562-ECCB-44F8-AEF8-E33E1606CA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AEEC8C7-09A6-4F88-8D70-E2DB08C0D87E}
+	EndGlobalSection
+EndGlobal
